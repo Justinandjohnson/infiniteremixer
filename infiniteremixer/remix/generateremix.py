@@ -9,9 +9,9 @@ from infiniteremixer.remix.remixer import Remixer
 
 
 # change these paths to run the script with your data
-MAPPING_PATH = "/home/valerio/datasets/infinitemixer/mfcc_chromo/mapping.pkl"
-FEATURES_PATH = "/home/valerio/datasets/infinitemixer/mfcc_chromo/dataset.pkl"
-NEAREST_NEIGHBOUR_PATH = "/home/valerio/datasets/infinitemixer/mfcc_chromo/nearestneighbour.pkl"
+MAPPING_PATH = r"\Users\justi\Desktop\results\data\mapping.pkl"
+FEATURES_PATH = r"\Users\justi\Desktop\results\data\dataset.pkl"
+NEAREST_NEIGHBOUR_PATH = r"\Users\justi\Desktop\results\data\nearestneighbour.pkl"
 SAMPLE_RATE = 22050
 
 
